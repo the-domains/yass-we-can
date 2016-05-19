@@ -1,0 +1,28 @@
+name: Yass We Can
+favicon: null
+layout_spectrum: 0.3941787830553949
+typography_spectrum: 0.8959662872366607
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.3677715475205332
+  lightness: 0.0915311174467206
+  saturation: 0.24675985146313906
+  rhythmicContrast: 0.9254792742431164
+purpose: []
