@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Yass We Can]]></title>
         <description><![CDATA[Yass We Can]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/yass-we-can/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 May 2016 00:35:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 19 May 2016 00:36:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/yass-we-can/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd1f9b12-a309-4b56-9a5d-49e386214c51.jpg">]]></description>
-            <link>undefinedwe-hit-300-likes/index.html</link>
+            <link>https://thegrid.ai/yass-we-can/we-hit-300-likes/index.html</link>
             <guid isPermaLink="false">876f4c94-1f2c-479c-b730-5b469d68657e</guid>
-            <pubDate>Thu, 19 May 2016 00:34:49 GMT</pubDate>
+            <pubDate>Thu, 19 May 2016 00:35:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
